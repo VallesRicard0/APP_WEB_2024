@@ -28,5 +28,8 @@ function operacion()
 
 function isNumber(n)
 {
+    resul=document.getElementById("Resultado")
     return !isNaN(parseInt(n) && isFinite(n))
 }
+
+//HOLA
